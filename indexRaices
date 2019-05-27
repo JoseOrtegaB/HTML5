@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bienes Raices</title>
+  </head>
+  <body>
+    <h1>Venta de casas y departamentos exclusivos de lujo</h1>
+    <h2>Mas sobre nosotros</h2>
+    <h3>Seguridad</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h3>El mejor precio</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h3>A tiempo</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+    <h2>Casas y depas en venta</h2>
+
+    <h3>Casa de lujo en el lago</h3>
+    <p>Casa de lujo en el lago con excelente vista y acabdos de lujo a un excelente precio</p>
+    <p>$3,000,000</p>
+
+    <h3>Casa terminados de lujo</h3>
+    <p>Casa de lujo en el lago con excelente vista y acabdos de lujo a un excelente precio</p>
+    <p>$2,000,000</p>
+
+    <h3>Casa de lujo en el lago</h3>
+    <p>Casa de lujo en el lago con excelente vista y acabdos de lujo a un excelente precio</p>
+    <p>$3,000,000</p>
+
+    <h3>casa con alberca</h3>
+    <p>Casa con alberca y acabados de lujo en la ciudad, excelente oportunidad</p>
+    <p>$3,000,000.00</p>
+    
+    <h2>Encuentra la casa de tus sueños</h2>
+    <p>Llena el formulario y uno de nuestros asesores te contactará</p>
+
+    <h3>NUESTRO BLOG</h3>
+    <h4>Terraza en el techo de tu casa </h4>
+    <p>Escrito el 26/05/2019</p>
+    <p>Consejos para la decoracion de tu hogar</p>
+    <p>Maximiza el espacio de tu casa con esta guia, aprende a combinar muebles colores etc</p>
+
+    <h3>Conoce nuestros testimoniales</h3>
+    <blockquote>El personal se comporto muy amable y me dieron muchas ideas</blockquote>
+    <p>Pepe Ortega</p>
+
+    <p>Todos los derechos reservados 2019 &copy; </p>
+
+
+
+
+
+
+
+  </body>
+</html>
